@@ -1,0 +1,22 @@
+@import url("components/section.css");
+
+body {
+  margin: 0;
+  font-family: Open-sans, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+
+.padded {
+  padding: 100px 200px;
+}
+
+.wrapper {
+  background: linear-gradient(90deg, #ffffff 50%, #ece2d8 50%);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+

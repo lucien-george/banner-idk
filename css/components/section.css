@@ -1,0 +1,18 @@
+.section-left {
+  flex-grow: 1;
+  color: #ece2d8;
+}
+
+.section-right {
+  flex-grow: 1;
+  color: #000;
+  margin: 0;
+}
+
+.section-left h1 {
+  padding-right: 10px;
+}
+
+.section-right h1 {
+  padding-left: 10px;
+}
